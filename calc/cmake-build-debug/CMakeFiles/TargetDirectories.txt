@@ -1,0 +1,3 @@
+/Users/vladzaharinsky/calc/cmake-build-debug/CMakeFiles/calc.dir
+/Users/vladzaharinsky/calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladzaharinsky/calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
