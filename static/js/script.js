@@ -45,6 +45,10 @@ function rollSlider () {
     if (window.innerWidth < 1200 && window.innerWidth > 588) {
         sliderLine.style.transform = `translateX(${-sliderCount*0.98 * sliderWidth}px`;
     }
+
+    if (window.innerWidth < 588) {
+        sliderLine.style.transform = `translateX(${-sliderCount * sliderWidth}px`;
+    }
 }
 
 setInterval(() => {
