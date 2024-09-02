@@ -1,1 +1,3 @@
-# itm
+ITM
+
+Commercial Django Web project.
